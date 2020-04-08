@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<extension type="component" version="3.0" method="upgrade">
+    <name>com_documents</name>
+    <author>Nguyễn Tiến Đạt</author>
+    <administration>
+        <menu>Quản lý tài liệu dạy học</menu>
+        <files folder="admin">
+            <filename>index.html</filename>
+            <filename>documents.php</filename>
+            <filename>controller.php</filename>
+            <folder>controllers</folder>
+            <folder>models</folder>
+            <folder>views</folder>
+        </files>
+    </administration>
+</extension>

@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="151061ef-d8b1-4547-9211-e6cff570c0ca" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution>
+      <executable />
+    </execution>
+  </component>
+  <component name="JoomlaConfiguration" doNotAskAgain="true" />
+  <component name="JsFlowSettings">
+    <service-enabled>true</service-enabled>
+    <exe-path />
+    <other-services-enabled>true</other-services-enabled>
+    <auto-save>true</auto-save>
+  </component>
+  <component name="PhpServers">
+    <servers>
+      <server host="localhost" id="978fbee7-8349-4b0a-8396-af2954fbdae6" name="localhost" />
+      <server host="localhost" id="dbe28d84-a3a7-4044-9344-b19ba94b550e" name="localhost (1)" port="8080" use_path_mappings="true">
+        <path_mappings>
+          <mapping local-root="$PROJECT_DIR$/templates/protostar" remote-root="C:/xampp/htdocs" />
+        </path_mappings>
+      </server>
+    </servers>
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" interpreter_name="PHP" />
+  <component name="PhpXdebugProxy" ide_key="PHPSTORM" />
+  <component name="ProjectId" id="1ZFK435UmsFNbOKqAtimY9kDVSU" />
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
+    <property name="settings.editor.selected.configurable" value="reference.webide.settings.project.settings.php.debug" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\xampp\htdocs\Joomla\administrator\components\com_documents\views" />
+      <recent name="C:\xampp\htdocs\Joomla\administrator\components\com_documents_management" />
+      <recent name="C:\xampp\htdocs\Joomla\administrator\components\com_bomon\views\documents" />
+      <recent name="C:\xampp\htdocs\Joomla\administrator\components\com_bomon\views\monhoc" />
+      <recent name="C:\xampp\htdocs\Joomla\administrator\components\com_documents_bo_mon" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="151061ef-d8b1-4547-9211-e6cff570c0ca" name="Default Changelist" comment="" />
+      <created>1584429208115</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1584429208115</updated>
+      <workItem from="1584429211791" duration="928000" />
+      <workItem from="1584430177746" duration="786000" />
+      <workItem from="1584431011195" duration="236000" />
+      <workItem from="1584432012276" duration="3339000" />
+      <workItem from="1584435436120" duration="1404000" />
+      <workItem from="1584536907922" duration="5623000" />
+      <workItem from="1584601017839" duration="13869000" />
+      <workItem from="1584686996459" duration="2114000" />
+      <workItem from="1585658873483" duration="341000" />
+      <workItem from="1585659237429" duration="471000" />
+      <workItem from="1585659709922" duration="1283000" />
+      <workItem from="1585661018273" duration="755000" />
+      <workItem from="1586338003333" duration="2386000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="XDebuggerManager">
+    <watches-manager>
+      <configuration name="index.php">
+        <watch expression="$this" />
+        <watch expression="$GLOBALS['IDE_EVAL_CACHE']['8d0dc277-387e-4709-a160-4c1eaf727cb8']" />
+      </configuration>
+    </watches-manager>
+  </component>
+</project>

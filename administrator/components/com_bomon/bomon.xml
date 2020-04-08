@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<extension type="component" version="3.0" method="upgrade">
+    <name>com_bomon</name>
+    <author>kod.tq.96@gmail.com</author>
+    <administration>
+        <menu>Quản lý tài liệu dạy học KMA</menu>
+        <files folder="admin">
+            <filename>index.html</filename>
+            <filename>bomon.php</filename>
+            <filename>controller.php</filename>
+            <folder>controllers</folder>
+            <folder>models</folder>
+            <folder>views</folder>
+        </files>
+    </administration>
+</extension>
